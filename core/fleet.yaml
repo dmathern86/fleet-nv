@@ -1,0 +1,7 @@
+defaultNamespace: neuvector
+
+helm:
+  releaseName: neuvector
+  chart: "core"
+  repo: "https://neuvector.github.io/neuvector-helm/"
+  version: "2.4.5"
